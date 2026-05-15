@@ -147,6 +147,13 @@ https://github.com/shivakarthik07/-Broadening-the-RISC-V-High-Precision-Code-Bas
 </details>
 
 ---
+## output
+### Demo video
+https://private-user-images.githubusercontent.com/212245749/593311677-a7aeef05-1c03-4516-b38f-e08b3497e23f.webm?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg4NzM2MzksIm5iZiI6MTc3ODg3MzMzOSwicGF0aCI6Ii8yMTIyNDU3NDkvNTkzMzExNjc3LWE3YWVlZjA1LTFjMDMtNDUxNi1iMzhmLWUwOGIzNDk3ZTIzZi53ZWJtP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUxNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MTVUMTkyODU5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Njk3ZTljZGExYmFjMTUwYzQyZGU1MmFmYzEyMjcwOGExODU1MjE4NzFmY2FjMjY5NTkxOTA4NWVlZmU0ZWQ1NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPXZpZGVvJTJGd2VibSJ9.GkkQDD8UXSnlEdpFPARzM_UACRRJSX62jkLmHjRuXsI
+### image 
+<img width="553" height="423" alt="Screenshot from 2026-05-16 00-26-33" src="https://github.com/user-attachments/assets/ce21025d-6ea2-4f41-ac3c-d7a088d39220" />
+
+---
 
 ## Relevance — RISC-V / HPC Mentorship
 
