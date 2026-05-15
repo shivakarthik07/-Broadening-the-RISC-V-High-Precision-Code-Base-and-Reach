@@ -139,6 +139,10 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+---
+## Output
+https://github.com/shivakarthik07/-Broadening-the-RISC-V-High-Precision-Code-Base-and-Reach/issues/1#issue-4456361376
+<img width="553" height="423" alt="Screenshot from 2026-05-16 00-26-33" src="https://github.com/user-attachments/assets/ce24d048-61f4-4798-8b52-2342b3185d42" />
 
 </details>
 
